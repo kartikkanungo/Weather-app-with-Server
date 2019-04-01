@@ -21,6 +21,6 @@ app.get('/weather',(req,res)=>{
   res.send('Your Weather')
 })
 ```
-app.get(arg1,arg2) has 2 arguments 
-1.
+```app.get(arg1,arg2)``` has 2 arguments <br>
+1.  <br>
 2. arg2 -> is a callback function with arguments request and respond.
